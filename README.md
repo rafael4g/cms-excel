@@ -20,6 +20,8 @@ Modelo simples de preenchimento por meio de checkbox e optionButton no excel.
     - [x] Intuitivas
 - [x] Template com dados para teste.
 
+## FUNCTIONS
+
 - `wkb_open` // popula as formulas na worksheet base
 
 - `front_initialize` // Popula o combobox
